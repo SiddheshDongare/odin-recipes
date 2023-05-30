@@ -1,0 +1,15 @@
+body{
+    background-image: url("./images/ramen-shop.jpg");
+}
+
+h1{
+    color: royalblue;
+}
+
+.list-item{
+    background-color: #ffffff50;
+}
+
+a:link, a:visited{
+    color: hotpink;
+}

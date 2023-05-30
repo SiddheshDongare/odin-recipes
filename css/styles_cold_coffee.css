@@ -1,0 +1,21 @@
+body{
+    background-color: blanchedalmond;
+}
+
+h1{
+    color: #5C4033;
+}
+
+h2{
+    color: black;
+    background-color: rgb(0, 255, 255, .2);
+}
+
+.image_centre{
+    margin: auto;
+    display: block;
+}
+
+.text_centre{
+    text-align: center;
+}

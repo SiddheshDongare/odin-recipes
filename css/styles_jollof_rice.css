@@ -1,0 +1,22 @@
+body{
+    background-color: #6cfc9e;
+}
+
+h1{
+    text-align: center;
+    color: #bd0053;
+    background-color: rgb(208, 237, 127, 0.5);
+}
+
+h2{
+    color: #e76f66;
+}
+
+h3{
+    color: #840050;
+}
+
+.image_centre{
+    margin: auto;
+    display: block;
+}
